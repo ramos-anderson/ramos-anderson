@@ -25,7 +25,7 @@ Aqui estão os meus principais projetos de análise de dados, onde aplico minhas
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45a164947ea12a021020d0f/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
@@ -37,7 +37,7 @@ Aqui estão os meus principais projetos de análise de dados, onde aplico minhas
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45a164947ea12a021020d0f/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Aqui estão os meus principais projetos de análise de dados, onde aplico minhas
 ### 📫 Contato
 
 -   **LinkedIn:** [https://linkedin.com/in/ramos-anderson/](https://linkedin.com/in/ramos-anderson/)
--   **E-mail:** [andersonramos.economista@gmil.com]##
+-   **E-mail:** [andersonramos.economista@gmil.com]
 
 <!--
 **ramos-anderson/ramos-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
