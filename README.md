@@ -7,6 +7,9 @@ Aqui estão os meus principais projetos de análise de dados, onde aplico minhas
 ---
 ### 🚀 Projetos em Destaque
 
+-   **[Dashboard Interativo de Análise de Criptoativos](https://github.com/ramos-anderson/dashboard-analise-cripto)**
+    -   *Um projeto que coleta dados em tempo real via API da CoinGecko e utiliza **Plotly** para criar um dashboard interativo comparando o desempenho de mercado (preço, volatilidade, retorno) de Bitcoin, Ethereum e Solana.*
+
 -   **[Análise de Performance Financeira e Risco em Cartão de Crédito](https://github.com/ramos-anderson/projeto-analise-bank)**
     -   *Um projeto que simula a análise de um analista de FP&A e de Risco, usando Python, Pandas e Scikit-learn (K-Means) para segmentar clientes e identificar anomalias.*
 
