@@ -1,55 +1,60 @@
 ### Olá! Bem-vindo(a) ao meu portfólio 👋
 
-Meu nome é **José Anderson**, sou um Economista e Analista de Dados apaixonado por usar tecnologia para resolver problemas de negócio.
+#### Economista e Analista de Dados | SQL Avançado • Python para Análise • BI & Data Storytelling
 
-Aqui estão os meus principais projetos de análise de dados, onde aplico minhas habilidades em Python, SQL e Business Intelligence.
-
----
-### 🚀 Projetos em Destaque
-
--   **[Dashboard Interativo de Análise de Criptoativos](https://github.com/ramos-anderson/dashboard-analise-cripto)**
-    -   *Um projeto que coleta dados em tempo real via API da CoinGecko e utiliza **Plotly** para criar um dashboard interativo comparando o desempenho de mercado (preço, volatilidade, retorno) de Bitcoin, Ethereum e Solana.*
-
--   **[Análise de Performance Financeira e Risco em Cartão de Crédito](https://github.com/ramos-anderson/projeto-analise-bank)**
-    -   *Um projeto que simula a análise de um analista de FP&A e de Risco, usando Python, Pandas e Scikit-learn (K-Means) para segmentar clientes e identificar anomalias.*
-
--   **[Análise Exploratória de Risco de Crédito com Python](https://github.com/ramos-anderson/analise-risco-credito-python)**
-    -   *Uma análise de dados clássica para identificar os principais fatores que influenciam a aprovação de empréstimos, utilizando Pandas, Matplotlib e Seaborn para visualização.*
+Meu nome é **José Anderson**, sou um profissional analítico que une uma profunda base em **Economia** com expertise técnica em **Análise de Dados**. Sou apaixonado por usar tecnologia para transformar dados complexos em insights de negócio que impulsionam a estratégia e a tomada de decisão.
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+### 🚀 Projetos de Dados em Destaque
+
+Aqui estão meus principais projetos, que demonstram o ciclo completo de análise de dados, desde a manipulação em SQL até a modelagem com Python e a visualização com BI.
+
+-   **[Análise de Segmentação de Clientes com SQL Avançado (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**
+    -   *Um projeto que demonstra proficiência em **SQL avançado**, utilizando `CTEs`, `Window Functions (NTILE)` e `CASE WHEN` para realizar uma segmentação de clientes completa com base no modelo RFM.*
+
+-   **[Dashboard Interativo de Análise de Criptoativos (Python, Plotly)](https://github.com/ramos-anderson/dashboard-analise-cripto)**
+    -   *Um projeto que coleta dados em tempo real via API e utiliza **Plotly** para criar um dashboard interativo, demonstrando habilidades em análise de séries temporais e **storytelling com dados**.*
+
+-   **[Análise de Performance Financeira e Risco com Machine Learning](https://github.com/ramos-anderson/projeto-analise-bank)**
+    -   *Um projeto que simula a análise de um analista de FP&A e Risco, usando **Python e Scikit-learn (K-Means)** para segmentar clientes, identificar padrões de risco e anomalias.*
+
+-   **[Análise Exploratória de Risco de Crédito (Python, EDA)](https://github.com/ramos-anderson/analise-risco-credito-python)**
+    -   *Uma análise de dados clássica que mostra o passo a passo de um projeto de **Análise Exploratória de Dados (EDA)**, desde a limpeza até a visualização com Matplotlib e Seaborn.*
+
+---
+
+### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
+ <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📫 Contato
+### 📊 Minhas Estatísticas no GitHub
+
+*(O código das estatísticas permanece o mesmo, continue com ele aqui)*
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Anderson"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Anderson"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Data Analytics GIF" width="400">
+</p>
+
+---
+
+### 📫 Como me Encontrar
 
 -   **LinkedIn:** [https://linkedin.com/in/ramos-anderson/](https://linkedin.com/in/ramos-anderson/)
--   **E-mail:** [andersonramos.economista@gmil.com]
+-   **E-mail:** andersonramos.economista@gmail.com
 
 <!--
 **ramos-anderson/ramos-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
