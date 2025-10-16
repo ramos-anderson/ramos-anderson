@@ -52,7 +52,7 @@ Aqui estão meus principais projetos, que demonstram o ciclo completo de anális
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Anderson"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Data Analytics GIF" width="400">
+  <img src="https://art.ngfiles.com/images/1600000/1600182_pinkmoth_more-gear-gif.gif?f1611153196" alt="Engrenagens - Processos e Análise" width="400">
 </p>
 
 ---
