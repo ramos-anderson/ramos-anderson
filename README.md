@@ -46,7 +46,6 @@ Aqui estão meus principais projetos, que demonstram o ciclo completo de anális
 
 ### 📊 Minhas Estatísticas no GitHub
 
-*(O código das estatísticas permanece o mesmo, continue com ele aqui)*
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Anderson"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Anderson"/>
