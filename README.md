@@ -13,6 +13,12 @@ Aqui estão meus principais projetos, que demonstram o ciclo completo de anális
 -   **[Análise de Segmentação de Clientes com SQL Avançado (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**
     -   *Um projeto que demonstra proficiência em **SQL avançado**, utilizando `CTEs`, `Window Functions (NTILE)` e `CASE WHEN` para realizar uma segmentação de clientes completa com base no modelo RFM.*
 
+-   **[Modelo Preditivo de Churn de Clientes (Python & Scikit-learn)](https://github.com/ramos-anderson/modelo-previsao-churn-python)**
+    -   *Um projeto de **Machine Learning** que constrói um modelo para prever a probabilidade de cancelamento (churn) de clientes, demonstrando o ciclo completo de um projeto de Data Science: EDA, pré-processamento e avaliação de modelo.*
+
+-   **[Dashboard de Performance de Mídia no Looker Studio](https://lookerstudio.google.com/reporting/982cb5f8-d61b-4de7-8702-fd988392d359)**
+    -   *Um dashboard executivo construído com **Looker Studio** para analisar a performance de campanhas de marketing. O projeto demonstra habilidades em **Business Intelligence (BI)** e criação de KPIs para a tomada de decisão.*
+
 -   **[Dashboard Interativo de Análise de Criptoativos (Python, Plotly)](https://github.com/ramos-anderson/dashboard-analise-cripto)**
     -   *Um projeto que coleta dados em tempo real via API e utiliza **Plotly** para criar um dashboard interativo, demonstrando habilidades em análise de séries temporais e **storytelling com dados**.*
 
