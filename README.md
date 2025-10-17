@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo(a) ao meu portfólio 👋
 
-#### Economista e Analista de Dados | SQL Avançado • Python para Análise • BI & Data Storytelling
+#### Economista e Analista de Dados | SQL • Python • Engenharia de Dados (ETL) • BI & Data Storytelling
 
-Meu nome é **José Anderson**, sou um profissional analítico que une uma profunda base em **Economia** com expertise técnica em **Análise de Dados**. Sou apaixonado por usar tecnologia para transformar dados complexos em insights de negócio que impulsionam a estratégia e a tomada de decisão.
+Meu nome é **José Anderson**, sou um profissional analítico com uma base profunda em **Economia** e expertise técnica em **Análise de Dados**. Sou apaixonado por construir soluções de dados de ponta a ponta: desde a **criação de pipelines de ETL automatizados** até a **condução de análises estatísticas e preditivas**, culminando na comunicação de insights através de dashboards interativos.
 
 ---
 
@@ -10,6 +10,12 @@ Meu nome é **José Anderson**, sou um profissional analítico que une uma profu
 
 Aqui estão meus principais projetos, que demonstram o ciclo completo de análise de dados, desde a manipulação em SQL até a modelagem com Python e a visualização com BI.
 
+-   **[Projeto de ETL: Pipeline Automatizado de Dados de Vendas](https://github.com/ramos-anderson/projeto-pipeline-etl-python)**
+    -   *Demonstração de **Engenharia de Dados**: um pipeline de ETL completo e automatizado com Python, que coleta, transforma e carrega dados de vendas em um banco de dados SQLite, simulando um ambiente de produção.*
+
+-   **[Análise Estatística de Experimento (Teste A/B) com Python](https://github.com/ramos-anderson/analise-estatistica-teste-ab)**
+    -   *Demonstração de **Análise de Produto/Growth**: uma análise de Teste A/B de ponta a ponta, utilizando Python e testes estatísticos (`Teste Z`) para gerar uma recomendação de negócio baseada em evidências.*
+ 
 -   **[Análise de Segmentação de Clientes com SQL Avançado (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**
     -   *Um projeto que demonstra proficiência em **SQL avançado**, utilizando `CTEs`, `Window Functions (NTILE)` e `CASE WHEN` para realizar uma segmentação de clientes completa com base no modelo RFM.*
 
