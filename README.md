@@ -1,38 +1,32 @@
 ### Olá! Bem-vindo(a) ao meu portfólio 👋
 
-#### Economista e Analista de Dados | SQL • Python • Engenharia de Dados (ETL) • BI & Data Storytelling
+#### Economista e Profissional de Dados | Análise • Engenharia de Dados • Machine Learning
 
-Meu nome é **José Anderson**, sou um profissional analítico com uma base profunda em **Economia** e expertise técnica em **Análise de Dados**. Sou apaixonado por construir soluções de dados de ponta a ponta: desde a **criação de pipelines de ETL automatizados** até a **condução de análises estatísticas e preditivas**, culminando na comunicação de insights através de dashboards interativos.
+Meu nome é **José Anderson**, sou um profissional que une uma base profunda em **Economia** com expertise técnica em todo o **ciclo de vida dos dados**. Sou apaixonado por construir soluções de ponta a ponta: desde a aquisição de dados não estruturados com **Web Scraping** e a criação de **pipelines de ETL automatizados**, passando pela modelagem preditiva com **Machine Learning** e o **deploy de modelos como APIs**, até a comunicação de insights de negócio.
 
 ---
 
 ### 🚀 Projetos de Dados em Destaque
 
-Aqui estão meus principais projetos, que demonstram o ciclo completo de análise de dados, desde a manipulação em SQL até a modelagem com Python e a visualização com BI.
+Meus projetos demonstram habilidades práticas em Engenharia de Dados, Machine Learning e Análise Estratégica.
+
+-   **[Deploy de Modelo de Churn como API REST com FastAPI](https://github.com/ramos-anderson/deploy-modelo-churn-fastapi)**
+    -   *Demonstração de **Engenharia de Machine Learning (MLOps)**: um projeto que leva um modelo de Scikit-learn do treinamento até o deploy como uma **API REST funcional** com FastAPI, tornando-o consumível por outras aplicações.*
+
+-   **[Análise de Sentimento do Mercado Financeiro via Web Scraping](https://github.com/ramos-anderson/analise-sentimento-financeiro-python)**
+    -   *Demonstração de **autonomia na aquisição de dados**: um pipeline que coleta notícias da web usando **Selenium**, aplica **Processamento de Linguagem Natural (NLP)** para análise de sentimento e visualiza a correlação com preços de ações.*
 
 -   **[Projeto de ETL: Pipeline Automatizado de Dados de Vendas](https://github.com/ramos-anderson/projeto-pipeline-etl-python)**
-    -   *Demonstração de **Engenharia de Dados**: um pipeline de ETL completo e automatizado com Python, que coleta, transforma e carrega dados de vendas em um banco de dados SQLite, simulando um ambiente de produção.*
+    -   *Demonstração de **Engenharia de Dados**: um pipeline de ETL completo e automatizado com Python, que extrai, transforma e carrega dados de vendas em um banco de dados SQLite, simulando um ambiente de produção.*
 
 -   **[Análise Estatística de Experimento (Teste A/B) com Python](https://github.com/ramos-anderson/analise-estatistica-teste-ab)**
-    -   *Demonstração de **Análise de Produto/Growth**: uma análise de Teste A/B de ponta a ponta, utilizando Python e testes estatísticos (`Teste Z`) para gerar uma recomendação de negócio baseada em evidências.*
- 
+    -   *Demonstração de **Análise de Produto/Growth**: uma análise de Teste A/B de ponta a ponta para gerar uma recomendação de negócio baseada em evidências estatísticas (`Teste Z`).*
+    
 -   **[Análise de Segmentação de Clientes com SQL Avançado (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**
-    -   *Um projeto que demonstra proficiência em **SQL avançado**, utilizando `CTEs`, `Window Functions (NTILE)` e `CASE WHEN` para realizar uma segmentação de clientes completa com base no modelo RFM.*
+    -   *Demonstração de **SQL Avançado**: uma query complexa com `CTEs` e `Window Functions` para realizar uma segmentação de clientes com base no modelo RFM, gerando insights para marketing.*
 
--   **[Modelo Preditivo de Churn de Clientes (Python & Scikit-learn)](https://github.com/ramos-anderson/modelo-previsao-churn-python)**
-    -   *Um projeto de **Machine Learning** que constrói um modelo para prever a probabilidade de cancelamento (churn) de clientes, demonstrando o ciclo completo de um projeto de Data Science: EDA, pré-processamento e avaliação de modelo.*
-
--   **[Dashboard de Performance de Mídia no Looker Studio](https://lookerstudio.google.com/reporting/982cb5f8-d61b-4de7-8702-fd988392d359)**
-    -   *Um dashboard executivo construído com **Looker Studio** para analisar a performance de campanhas de marketing. O projeto demonstra habilidades em **Business Intelligence (BI)** e criação de KPIs para a tomada de decisão.*
-
--   **[Dashboard Interativo de Análise de Criptoativos (Python, Plotly)](https://github.com/ramos-anderson/dashboard-analise-cripto)**
-    -   *Um projeto que coleta dados em tempo real via API e utiliza **Plotly** para criar um dashboard interativo, demonstrando habilidades em análise de séries temporais e **storytelling com dados**.*
-
--   **[Análise de Performance Financeira e Risco com Machine Learning](https://github.com/ramos-anderson/projeto-analise-bank)**
-    -   *Um projeto que simula a análise de um analista de FP&A e Risco, usando **Python e Scikit-learn (K-Means)** para segmentar clientes, identificar padrões de risco e anomalias.*
-
--   **[Análise Exploratória de Risco de Crédito (Python, EDA)](https://github.com/ramos-anderson/analise-risco-credito-python)**
-    -   *Uma análise de dados clássica que mostra o passo a passo de um projeto de **Análise Exploratória de Dados (EDA)**, desde a limpeza até a visualização com Matplotlib e Seaborn.*
+-   **[Dashboard de Performance de Mídia (Looker Studio)](https://lookerstudio.google.com/reporting/982cb5f8-d61b-4de7-8702-fd988392d359)**
+    -   *Demonstração de **Business Intelligence**: um dashboard executivo interativo no Looker Studio para analisar KPIs de marketing.*
 
 ---
 
