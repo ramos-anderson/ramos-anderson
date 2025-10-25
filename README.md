@@ -9,7 +9,9 @@ Meu nome é **José Anderson**, sou um profissional que une uma base profunda em
 ### 🚀 Projetos de Dados em Destaque
 
 Meus projetos demonstram habilidades práticas em Engenharia de Dados, Machine Learning e Análise Estratégica.
-
+-   **[Pipeline de ETL de Big Data com PySpark e Databricks](https://github.com/ramos-anderson/pipeline-big-data-pyspark-databricks)**
+    -   *Demonstração de **Engenharia de Dados em Larga Escala**: um pipeline completo que processa milhões de registros de corridas de táxi em um ambiente distribuído com **PySpark na plataforma Databricks**, incluindo ETL, engenharia de features e análise com Spark SQL.*
+      
 -   **[Deploy de Modelo de Churn como API REST com FastAPI](https://github.com/ramos-anderson/deploy-modelo-churn-fastapi)**
     -   *Demonstração de **Engenharia de Machine Learning (MLOps)**: um projeto que leva um modelo de Scikit-learn do treinamento até o deploy como uma **API REST funcional** com FastAPI, tornando-o consumível por outras aplicações.*
 
