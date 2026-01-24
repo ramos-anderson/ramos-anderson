@@ -1,83 +1,48 @@
-### Olá! Bem-vindo(a) ao meu portfólio 👋
+# Olá! Bem-vindo(a) ao meu ecossistema técnico 🚀
 
-#### Economista e Profissional de Dados | Análise • Engenharia de Dados • Machine Learning
+**Economista e Engenheiro de Software/Dados | SQL • Python • Go • SRE**
 
-Meu nome é **José Anderson**, sou um profissional que une uma base profunda em **Economia** com expertise técnica em todo o **ciclo de vida dos dados**. Sou apaixonado por construir soluções de ponta a ponta: desde a aquisição de dados não estruturados com **Web Scraping** e a criação de **pipelines de ETL automatizados**, passando pela modelagem preditiva com **Machine Learning** e o **deploy de modelos como APIs**, até a comunicação de insights de negócio.
-
----
-
-### 🚀 Projetos de Dados em Destaque
-
-Meus projetos demonstram habilidades práticas em Engenharia de Dados, Machine Learning e Análise Estratégica.
--   **[Financial Gateway Go](https://github.com/ramos-anderson/gateway-transacoes-go).**
-Microserviço de transações financeiras focado em alta performance. Desenvolvido para lidar com concorrência nativa, isolado em containers e auditado via PostgreSQL.
-
--   **[Pipeline de ETL de Big Data com PySpark e Databricks](https://github.com/ramos-anderson/pipeline-big-data-pyspark-databricks)**
-    -   *Demonstração de **Engenharia de Dados em Larga Escala**: um pipeline completo que processa milhões de registros de corridas de táxi em um ambiente distribuído com **PySpark na plataforma Databricks**, incluindo ETL, engenharia de features e análise com Spark SQL.*
-      
--   **[Deploy de Modelo de Churn como API REST com FastAPI](https://github.com/ramos-anderson/deploy-modelo-churn-fastapi)**
-    -   *Demonstração de **Engenharia de Machine Learning (MLOps)**: um projeto que leva um modelo de Scikit-learn do treinamento até o deploy como uma **API REST funcional** com FastAPI, tornando-o consumível por outras aplicações.*
-
--   **[Análise de Sentimento do Mercado Financeiro via Web Scraping](https://github.com/ramos-anderson/analise-sentimento-financeiro-python)**
-    -   *Demonstração de **autonomia na aquisição de dados**: um pipeline que coleta notícias da web usando **Selenium**, aplica **Processamento de Linguagem Natural (NLP)** para análise de sentimento e visualiza a correlação com preços de ações.*
-
--   **[Projeto de ETL: Pipeline Automatizado de Dados de Vendas](https://github.com/ramos-anderson/projeto-pipeline-etl-python)**
-    -   *Demonstração de **Engenharia de Dados**: um pipeline de ETL completo e automatizado com Python, que extrai, transforma e carrega dados de vendas em um banco de dados SQLite, simulando um ambiente de produção.*
-
--   **[Análise Estatística de Experimento (Teste A/B) com Python](https://github.com/ramos-anderson/analise-estatistica-teste-ab)**
-    -   *Demonstração de **Análise de Produto/Growth**: uma análise de Teste A/B de ponta a ponta para gerar uma recomendação de negócio baseada em evidências estatísticas (`Teste Z`).*
-    
--   **[Análise de Segmentação de Clientes com SQL Avançado (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**
-    -   *Demonstração de **SQL Avançado**: uma query complexa com `CTEs` e `Window Functions` para realizar uma segmentação de clientes com base no modelo RFM, gerando insights para marketing.*
-
--   **[Dashboard de Performance de Mídia (Looker Studio)](https://lookerstudio.google.com/reporting/982cb5f8-d61b-4de7-8702-fd988392d359)**
-    -   *Demonstração de **Business Intelligence**: um dashboard executivo interativo no Looker Studio para analisar KPIs de marketing.*
+Meu nome é **José Anderson**. Uno uma base analítica profunda em **Economia** com a expertise técnica de ponta necessária para gerenciar o ciclo de vida do dado: desde a ingestão massiva até o deploy resiliente de soluções de software e IA.
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
+### 🛠️ Minha Caixa de Ferramentas (Stack)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Python`, `Go (Golang)`, `SQL (Postgres/MySQL/SQLite)`, `R` |
+| **Dados** | `PySpark`, `Databricks`, `Pandas`, `ETL/ELT Pipelines`, `Power BI` |
+| **Engenharia/Backend** | `FastAPI`, `Docker`, `Containerização`, `API REST`, `GitHub Actions` |
+| **Ciência & Risco** | `Machine Learning`, `Estatística Avançada`, `Análise de Risco`, `Testes A/B` |
+| **Ops & Infra** | `Linux (WSL2/Ubuntu)`, `Bash Scripting`, `SRE Mindset` |
+
+---
+
+### 🏆 Projetos em Destaque
+
+#### 🔹 Engenharia de Software & Backend
+- **[Financial Gateway Go](https://github.com/ramos-anderson/gateway-transacoes-go)**: Microserviço em **Go** focado em concorrência nativa e processamento transacional.
+- **[Deploy de Modelo Churn (API)](https://github.com/ramos-anderson/modelo-previsao-churn-python)**: API funcional em **FastAPI** containerizada via Docker para servir modelos de predição.
+
+#### 🔹 Negócios & Análise Estatística
+- **[Teste A/B com Python](https://github.com/ramos-anderson/analise-estatistica-teste-ab)**: Estudo estatístico (Z-test) de ponta a ponta para validação de produto e otimização de conversão.
+- **[Segmentação de Clientes (RFM)](https://github.com/ramos-anderson/projeto-sql-rfm-ecommerce)**: Análise de comportamento via **SQL Avançado** (Window Functions/CTEs) para estratégias de Growth Marketing.
+
+#### 🔹 Big Data & Inteligência de Dados
+- **[ETL Big Data com PySpark](https://github.com/ramos-anderson/pipeline-big-data-pyspark-databricks)**: Pipeline escalável em ambiente **Databricks**, processando milhões de registros para engenharia de features.
+- **[Web Scraping & NLP Financeiro](https://github.com/ramos-anderson/analise-sentimento-financeiro-python)**: Coleta e processamento de linguagem natural (Selenium) para correlação financeira.
+
+---
+
+### 📊 Minhas Estatísticas
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
- <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook" />
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Anderson"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Anderson"/>
-</p>
-<p align="center">
-  <img src="https://art.ngfiles.com/images/1600000/1600182_pinkmoth_more-gear-gif.gif?f1611153196" alt="Engrenagens - Processos e Análise" width="400">
-</p>
-
----
-
-### 📫 Como me Encontrar
-
--   **LinkedIn:** [https://linkedin.com/in/ramos-anderson/](https://linkedin.com/in/ramos-anderson/)
--   **E-mail:** andersonramos.economista@gmail.com
-
-<!--
-**ramos-anderson/ramos-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [linkedin.com/in/ramos-anderson](https://linkedin.com/in/ramos-anderson)
+- **E-mail:** andersonramos.economista@gmail.com
