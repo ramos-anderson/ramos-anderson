@@ -9,6 +9,9 @@ Meu nome é **José Anderson**, sou um profissional que une uma base profunda em
 ### 🚀 Projetos de Dados em Destaque
 
 Meus projetos demonstram habilidades práticas em Engenharia de Dados, Machine Learning e Análise Estratégica.
+-   **[Financial Gateway Go](https://github.com/ramos-anderson/gateway-transacoes-go).**
+Microserviço de transações financeiras focado em alta performance. Desenvolvido para lidar com concorrência nativa, isolado em containers e auditado via PostgreSQL.
+
 -   **[Pipeline de ETL de Big Data com PySpark e Databricks](https://github.com/ramos-anderson/pipeline-big-data-pyspark-databricks)**
     -   *Demonstração de **Engenharia de Dados em Larga Escala**: um pipeline completo que processa milhões de registros de corridas de táxi em um ambiente distribuído com **PySpark na plataforma Databricks**, incluindo ETL, engenharia de features e análise com Spark SQL.*
       
