@@ -22,6 +22,7 @@ Meu nome é **José Anderson**. Uno uma base analítica profunda em **Economia**
 
 #### 🔹 Engenharia de Software & Backend
 - **[Financial Gateway Go](https://github.com/ramos-anderson/gateway-transacoes-go)**: Microserviço em **Go** focado em concorrência nativa e processamento transacional.
+- **[Concurrent Exchange Watcher (Go)](https://github.com/ramos-anderson/exchange-watcher-go)**: Microserviço em Go focado em alta concorrência (Goroutines) para monitoramento em tempo real de múltiplas APIs de câmbio com Docker e PostgreSQL.
 - **[Deploy de Modelo Churn (API)](https://github.com/ramos-anderson/modelo-previsao-churn-python)**: API funcional em **FastAPI** containerizada via Docker para servir modelos de predição.
 
 #### 🔹 Negócios & Análise Estatística
@@ -34,12 +35,13 @@ Meu nome é **José Anderson**. Uno uma base analítica profunda em **Economia**
 
 ---
 
-### 📊 Minhas Estatísticas
+---
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook" />
-</p>
+### 📊 Performance & Consistência Tech
+
+![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ramos-anderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-anderson&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook)
 
 ---
 
