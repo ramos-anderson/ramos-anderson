@@ -1,0 +1,5 @@
+# Diz ao GitHub para ignorar os notebooks na estatística de linguagem
+*.ipynb linguist-detectable=false
+# Se você tiver datasets (CSV/JSON), ignore também
+*.csv linguist-documentation=true
+*.json linguist-documentation=true
