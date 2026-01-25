@@ -22,7 +22,7 @@ Meu nome é **José Anderson**. Uno uma base analítica profunda em **Economia**
 
 #### 🔹 Engenharia de Software & Backend
 - **[Financial Gateway Go](https://github.com/ramos-anderson/gateway-transacoes-go)**: Microserviço em **Go** focado em concorrência nativa e processamento transacional.
-- **[Concurrent Exchange Watcher (Go)](https://github.com/ramos-anderson/exchange-watcher-go)**: Microserviço em Go focado em alta concorrência (Goroutines) para monitoramento em tempo real de múltiplas APIs de câmbio com Docker e PostgreSQL.
+- **[Concurrent Exchange Watcher (Go)](https://github.com/ramos-anderson/go-exchange-monitor)**: Microserviço em Go focado em alta concorrência (Goroutines) para monitoramento em tempo real de múltiplas APIs de câmbio com Docker e PostgreSQL.
 - **[Deploy de Modelo Churn (API)](https://github.com/ramos-anderson/modelo-previsao-churn-python)**: API funcional em **FastAPI** containerizada via Docker para servir modelos de predição.
 
 #### 🔹 Negócios & Análise Estatística
